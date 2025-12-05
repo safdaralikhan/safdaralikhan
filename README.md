@@ -16,11 +16,14 @@
   <img alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="40" height="40" />
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="40" height="40" />
   <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" width="40" height="40" />
+  <img alt="Materialize CSS" src="https://materializecss.com/res/materialize.svg" width="40" height="40" />
+  <img alt="Bulma" src="https://bulma.io/images/bulma-logo.png" width="40" height="40" />
   <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" height="40" />
   <img alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" />
-  <img alt="Firebase" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" />
+  <img alt="Vercel" src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="40" height="40" />
+  <img alt="cPanel" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/CPanel_logo.svg/1200px-CPanel_logo.svg.png" width="40" height="40" />
+  <img alt="shadcn/ui" src="https://raw.githubusercontent.com/shadcn/ui/main/logo.svg" width="40" height="40" />
 </p>
-
 ---
 
 ## 🌟 Projects Highlights
