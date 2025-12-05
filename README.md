@@ -25,12 +25,13 @@
 
 ## 🌟 Projects Highlights
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| E-commerce Store | Next.js, React.js, Tailwind CSS | Full-featured online store with cart, payment integration, and admin panel. |
-| Learning Platform | React.js, Vite, Firebase | Interactive platform for courses, quizzes, and user tracking. |
-| Portfolio Website | Next.js, Tailwind CSS | Personal portfolio showcasing projects, skills, and GitHub stats. |
-| Dashboard App | React.js, Bootstrap, Axios | Admin dashboard with API integration and dynamic charts. |
+| Project | Tech Stack | Description | Live |
+|--------|------------|-------------|------|
+| **Rentatron – Rental Marketplace** | Next.js, Django | Full-stack rental platform. Users can create listings, manage bookings, and track transactions. Admin panel manages verifications and oversees operations. | [User](https://rentratron.vercel.app/) / [Admin](https://rentratron-admin.netlify.app/login) |
+| **Smart Calling Agent** | Vite.js, FastAPI | AI-powered platform automating inbound/outbound calling campaigns. Users manage agents, campaigns, and track performance with analytics dashboards. | [User](https://callmind-ai.netlify.app/) / [Admin](https://callmindai-admin.netlify.app/) |
+| **TruckerAI Admin Panel** | Next.js, Django | Admin dashboard automating trucking company operations. Upload invoices/PDFs, AI extracts key details, and chatbot queries database in natural language. | [Admin](https://truckeradmin.netlify.app/) |
+| **MyAnimeWatch – Anime Streaming** | Next.js, Tailwind CSS, Django | Anime streaming & info platform integrating multiple APIs. Browse, search, filter, and track favorite anime with fast, responsive UX. | [User](https://myanimewatch.vercel.app/) / [Admin](https://animeratingsystem.vercel.app/) |
+| **Scopium AI – Symptom Analysis** | React.js, AI Backend | Health platform analyzing user symptoms using AI/ML models. Visualized results, actionable insights, and real-time data collection for clinics and patients. | [User](https://scopium.ai/) / [Admin](https://scopium-admin.vercel.app/) |
 
 ---
 
@@ -57,4 +58,17 @@
 ## ⚡ Fun Fact
 
 - Always learning new frameworks and libraries to stay up-to-date with frontend trends.  
-- Passionate about creating **pixel-perfect UI** and **smooth user experiences**.
+- Passionate about creating **pixel-perfect UI** and **smooth user experiences**.  
+- Love combining **AI & frontend tech** for smarter applications 🤖✨  
+
+---
+
+## ✨ Animated Skills (GIF Style)
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=00FF00&background=00000000&width=600&lines=React.js+%7C+Next.js+%7C+Vite.js+%7C+Tailwind+CSS+%7C+TypeScript" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=FF69B4&background=00000000&width=600&lines=Building+Responsive+UI+%7C+Integrating+APIs+%7C+AI+Integration+%7C+Optimized+Performance" />
+</p>
