@@ -47,7 +47,7 @@
 
 <p align="left">
   <a href="mailto:safdarali651@gmail.com"><img src="https://img.shields.io/badge/Email-safdarali651@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a>
-  <a href="https://safdaralikhan.ml" target="_blank"><img src="https://img.shields.io/badge/Portfolio-safdaralikhan.ml-purple?style=flat&logo=internet-explorer" alt="Portfolio"></a>
+  <a href="https://safdar-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-safdaralikhan.ml-purple?style=flat&logo=internet-explorer" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/safdaralikhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-SafdarAli-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://github.com/safdaralikhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-safdaralikhan-black?style=flat&logo=github" alt="GitHub"></a>
 </p>
