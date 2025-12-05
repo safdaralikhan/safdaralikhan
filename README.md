@@ -20,9 +20,9 @@
   <img alt="Bulma" src="https://raw.githubusercontent.com/jgthms/bulma/master/docs/images/bulma-logo.png" width="40" height="40" />
   <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="40" height="40" />
   <img alt="Git" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="40" height="40" />
- <img alt="Vercel" src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg" width="40" height="40" />
-  <img alt="cPanel" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/CPanel_logo.svg" width="40" height="40" />
-  <img alt="shadcn/ui" src="https://raw.githubusercontent.com/shadcn/ui/main/logo.svg" width="40" height="40" />
+ <img alt="Vercel" src="[https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/vercel.svg](https://upload.wikimedia.org/wikipedia/commons/9/9a/Vercel_logo_2025.svg)" width="40" height="40" />
+  <img alt="cPanel" src="[https://upload.wikimedia.org/wikipedia/commons/f/f7/CPanel_logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1E22HPbkCQDKwjQUFtn2AL7c8AGvwkBmgg&s)" width="40" height="40" />
+  <img alt="shadcn/ui" src="[https://raw.githubusercontent.com/shadcn/ui/main/logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW_Gxl5U-xZOhjByBd7LZsQaRmr3hQT2TQJw&s)" width="40" height="40" />
 </p>
 
 
