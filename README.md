@@ -32,16 +32,7 @@
 | **MyAnimeWatch – Anime Streaming** | Next.js, Tailwind CSS, Django | Anime streaming & info platform integrating multiple APIs. Browse, search, filter, and track favorite anime with fast, responsive UX. | [User](https://myanimewatch.vercel.app/) / [Admin](https://animeratingsystem.vercel.app/) |
 | **Scopium AI – Symptom Analysis** | React.js, AI Backend | Health platform analyzing user symptoms using AI/ML models. Visualized results, actionable insights, and real-time data collection for clinics and patients. | [User](https://scopium.ai/) / [Admin](https://scopium-admin.vercel.app/) |
 
----
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=safdaralikhan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safdaralikhan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
 
 ## 📫 Contact Me
 
