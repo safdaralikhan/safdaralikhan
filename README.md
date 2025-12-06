@@ -1,8 +1,11 @@
 # Hi, I'm Safdar 👋  
 
 ### Frontend Developer | Next.js | React.js | Vite.js  
-💻 3+ years experience building modern, responsive, and high-performance web applications.  
-🚀 Completed numerous projects in E-commerce, Learning Platforms, and Interactive Web Apps.  
+3+ years experience building modern, responsive, and high-performance web applications.
+🔗 Expert in API integration, dynamic data handling, and connecting complex frontend workflows with backend services.
+🧩 Experience working with 3rd-party API integrations on frontend.
+🤖 Worked on AI-based projects, including real-time data processing, AI agents, and interactive UI features.
+🚀 Completed multiple projects in E-commerce, Learning Platforms, Admin Dashboards, and Interactive Web Apps with clean, scalable code.
 
 ---
 
